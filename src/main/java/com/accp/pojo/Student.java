@@ -7,4 +7,9 @@ public class Student {
     public void aaa(){
 
     }
+
+    @Override
+    public String toString() {
+        return super.toString();
+    }
 }
